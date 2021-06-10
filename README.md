@@ -4,15 +4,10 @@
 
 ### Versión B
 
-- La verificación de numero de led valido se realiza en las funciónes de lectura y escritura de los mismos, por lo que se elimina la función:
+- La verificación de número de led valido se realiza en las funciónes de lectura y escritura de los mismos, por lo que se elimina la función:
 
-  void test_Leds_CheckLimits(void);
+  **void test_Leds_CheckLimits(void);**
   
 - Se elimina la carpeta build.
 
 - Se emprolija el código.
-
-
-
- 
- 
